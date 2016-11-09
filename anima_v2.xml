@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="44897" name="anima_v2" modified="2016-11-09 07:31:05" author="zwei">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#C5BBBB" bold="false" italic="true" underline="false" strikethrough="false" />
+    <multiLineComment color="#C5BBBB" bold="false" italic="false" underline="false" strikethrough="false" />
+    <commentTaskTag color="#FFFFFF" bold="false" italic="false" />
+    <javadoc color="#8B81AB" italic="false" />
+    <javadocLink color="#3680DC" italic="false" />
+    <javadocTag color="#CFBFAD" bold="true" italic="false" />
+    <javadocKeyword color="#D9E577" italic="false" />
+    <class color="#52E3F6" bold="true" underline="false" strikethrough="false" />
+    <interface color="#BC28CE" />
+    <method color="#A7EC21" />
+    <methodDeclaration color="#1D9420" />
+    <bracket color="#F9FAF4" />
+    <number color="#C48CFF" />
+    <string color="#ECE47E" />
+    <operator color="#FF007F" />
+    <keyword color="#FF007F" bold="false" />
+    <annotation color="#E795F1" bold="true" italic="true" />
+    <staticMethod color="#3FFF56" />
+    <localVariable color="#CFBFAD" bold="false" />
+    <localVariableDeclaration color="#CFBFAD" bold="true" />
+    <field color="#E89335" bold="false" />
+    <staticField color="#E6CAAB" bold="true" italic="false" />
+    <staticFinalField color="#EFC090" bold="true" italic="false" underline="false" strikethrough="false" />
+    <deprecatedMember color="#FF0000" underline="false" strikethrough="true" />
+    <enum color="#B858C3" bold="true" />
+    <inheritedMethod color="#9EA9FB" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#EFC090" />
+    <background color="#272822" />
+    <currentLine color="#52524A" />
+    <foreground color="#E8AC6E" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#CC9900" />
+    <selectionForeground color="#404040" />
+</colorTheme>
