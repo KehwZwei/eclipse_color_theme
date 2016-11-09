@@ -26,7 +26,7 @@
     <annotation color="#E795F1" bold="true" italic="true" />
     <staticMethod color="#3FFF56" />
     <localVariable color="#CFBFAD" bold="false" />
-    <localVariableDeclaration color="#CFBFAD" bold="true" />
+    <localVariableDeclaration color="#CFBFAD" bold="false" />
     <field color="#E89335" bold="false" />
     <staticField color="#E6CAAB" bold="true" italic="false" />
     <staticFinalField color="#EFC090" bold="true" italic="false" underline="false" strikethrough="false" />
